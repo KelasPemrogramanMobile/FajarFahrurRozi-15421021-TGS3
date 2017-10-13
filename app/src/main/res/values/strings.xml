@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PROYEK3</string>
+
+    <string-array name="agama">
+        <item>---PILIH AGAMA---  </item>
+        <item>ISLAM </item>
+        <item>KRISTEN PROTESTAN </item>
+        <item>KRISTEN KATOLIK </item>
+        <item>HINDU </item>
+        <item>BUDHA </item>
+        <item>KONGHUCHCU </item>
+    </string-array>
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8260f528f708e43753e4696fe04aad66fb9a0054">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\instant-run_86db6e91e29a7a97c7bee4280225c8ebcaae6906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_5cb72dab73a87dfe13b80265729bd5a2b43adf78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_91089f919fa1d9d2009f72bf1c9e9508214a0a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9e6a6094e0e351dddea15c40f80f7c4203fbba8">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a67e8b1bcafa099f4097adae1a9004e7839e6e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_0706adc560648da636f0433eab070f73978a8b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_02f7904544ce46eb0589f25d0143385469fd6d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_4884f4de2c4e437f9d86d0bd856a231c4e7db05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_ad22af3d7b6c70be24944a29be8231fd57a15524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_0e5c0fb31896ddf39ef7473ce4bb546b11eb4965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_62ad708dcd50c623f5a765dded707e39ff7d8fcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_880bf54c63cb8e5859999f401669ae661a49bb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_f79043af7ab996c722cfc6127d7aa6fd2d65054e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_f17dc96403b20de55951320567c09a33d910fd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MASTER\PEMROGRAMAN &amp; APLIKASI PERKULIAHAN\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_29ae770499820e664b7515942bd532ad9c5e8026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\PRAKTIKUM\android\PROYEK3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_fae5ca1b53f3cf193d08c54c5a335901c57d2269.jar" />
+    </item>
+
+</items>
